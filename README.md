@@ -3,7 +3,7 @@
 Minishell (42cursus) (2021-2022)
 
 	Status : finished.
-	Grade  : 101%
+	Grade  : 100%
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
 
